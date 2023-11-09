@@ -1,0 +1,12 @@
+# sumar
+# ordeno  sumo
+# divido ordeno sumo
+# ordeno divido sumo
+
+# arrancar con una solucion
+# combinar soluciones anteriores - algoritmo
+
+# imprimir 1 si se sumaron y 0 si no se sumaron dentro de un array ingresando estos datos
+
+ejercicio 1 
+# 24 -vol - 28 -cost
